@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Geeta-Nalli
+- 👀 I’m interested in the field of Data science
+- 🌱 I’m currently persuing msc statistics and computing from Banaras Hindu University,varanasi.
+- 💞️ I’m looking to collaborate on persuing msc statistics and computing from Banaras Hindu University,varanasi.
+- 📫 How to reach me https://www.linkedin.com/in/geeta-gayatri-49017722b
+
+<!---
+Geeta-Nalli/Geeta-Nalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
